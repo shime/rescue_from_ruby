@@ -71,10 +71,6 @@ Or install it yourself as:
 
     $ gem install rescue_from_ruby
 
-## Usage
-
-TODO: Write usage instructions here
-
 ## Contributing
 
 1. Fork it
